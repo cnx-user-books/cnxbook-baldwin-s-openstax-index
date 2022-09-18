@@ -1,0 +1,1051 @@
+<document xmlns="http://cnx.rice.edu/cnxml"> 
+<title>Rgb0100 Baldwin's OpenStax Index</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m60418</md:content-id>
+  <md:title>Rgb0100 Baldwin's OpenStax Index</md:title>
+  <md:abstract>This page provides an index of the books published by Richard (Dick) Baldwin on OpenStax.</md:abstract>
+  <md:uuid>defab87a-35de-49c8-ae0f-62bdab591cc8</md:uuid>
+</metadata>
+
+<content>
+
+
+
+
+
+
+<para id="p1000">
+Revised: Sun May 29 16:11:31 CDT 2016
+
+</para>
+
+
+
+
+<para id="p1001">
+<emphasis id="em1000" effect="italics">
+This page is included in the Book titled 
+
+</emphasis>
+
+
+
+<link id="a1000" url="http://cnx.org/contents/ccfJ_Ff9:3vq4ejXe">
+
+
+<emphasis id="em1001" effect="italics">
+Baldwin's OpenStax Index
+
+</emphasis>
+</link>
+
+
+</para>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="h11000">
+<title>
+<emphasis id="Table_of_contents" effect="bold">
+
+Table of contents
+
+</emphasis>
+
+
+</title>
+
+
+
+
+<list id="ul1000" list-type="bulleted">
+
+	
+
+<item id="li1000">
+<link id="a1001" target-id="List_of_books">
+
+List of books
+
+</link>
+
+
+</item>
+
+
+	
+
+<item id="li1001">
+<link id="a1002" target-id="List_of_pages">
+
+List of pages
+
+</link>
+
+
+</item>
+
+
+	
+
+<item id="li1002">
+<link id="a1003" target-id="Searching_for_content">
+
+Searching for content
+
+</link>
+
+
+</item>
+
+
+
+
+	
+
+<item id="li1003">
+<link id="a1004" target-id="Miscellaneous">
+
+Miscellaneous
+
+</link>
+
+
+</item>
+
+
+
+
+
+</list>
+
+
+	
+	
+
+</section>
+<section id="h11001">
+<title>
+<emphasis id="List_of_books" effect="bold">
+
+List of books
+
+</emphasis>
+
+
+</title>
+
+
+	
+
+
+<para id="p1002">
+Here is a list of the books that I have published on OpenStax as of this 
+revision date along with a 
+brief description of each book. 
+
+</para>
+
+
+
+
+
+<list id="ul1001" list-type="bulleted">
+
+	
+
+<item id="li1004">
+<link id="a1005" url="http://cnx.org/contents/ccfJ_Ff9:3vq4ejXe">
+
+Baldwin's OpenStax Index -- this book
+
+</link>
+
+: This book provides an index of the books published by Richard (Dick) Baldwin on OpenStax.
+	
+
+</item>
+
+
+	
+
+<item id="li1005">
+<link id="a1006" url="http://cnx.org/contents/2bKkYivW:uCarXUQ0">
+
+AP Computer Science A, Clarification of the Java Subset
+
+</link>
+
+: 
+	The purpose of the collection is to help you to better understand the Java 
+	Subset specifications for the Advanced Placement Computer Science A exam.
+
+</item>
+
+
+	
+
+<item id="li1006">
+<link id="a1007" url="http://cnx.org/contents/27YG7QNc:YTv-wnpo">
+
+Accessible Objected-Oriented Programming Concepts for Blind Students using Java
+
+</link>
+
+: Blind students should not be excluded from computer programming courses because of inaccessible textbooks. Because of its text-based nature, computer programming is fundamentally an accessible technology. However, many textbooks adopt and use high-level integrated development environments with graphical user interfaces that greatly reduce that accessibility.
+
+The modules in this collection present object-oriented programming concepts in a format that blind students can read using tools such as an audio screen reader and an electronic line-by-line Braille display. In an effort to get and keep the student's interest, these modules make heavy use of programming projects that provide sensory feedback through the use of sampled sound.
+
+These modules are intended to supplement and not to replace the textbook.
+	
+
+</item>
+
+
+	
+
+<item id="li1007">
+<link id="a1008" url="http://cnx.org/contents/p4QtspPG:q6VSnd3d@5/">
+
+Accessible Physics Concepts for Blind Students
+
+</link>
+
+: Blind students should not be excluded from physics courses because of inaccessible textbooks. The modules in this collection present physics concepts in a format that blind students can read using accessibility tools such as an audio screen reader and an electronic line-by-line Braille display. These modules are intended to supplement and not to replace the physics textbook.
+	
+
+</item>
+
+
+	
+
+<item id="li1008">
+<link id="a1009" url="http://cnx.org/contents/oOLSrHU0:eHQuSS4W">
+
+Anatomy of a Game Engine
+
+</link>
+
+: Learn about the anatomy of a basic game engine written around the Slick2D Java game library.
+	
+
+</item>
+
+
+	
+
+<item id="li1009">
+<link id="a1010" url="http://cnx.org/contents/mNJTwIBE:c-n7XnXf">
+
+Digital Signal Processing - DSP
+
+</link>
+
+: Over the years, Prof. Baldwin has published a large number of DSP tutorials. This collection, which is a work in process, gathers the more significant of those tutorials into a common location to make them more readily available for Connexions users.
+	
+
+</item>
+
+
+	
+
+<item id="li1010">
+<link id="a1011" url="http://cnx.org/contents/3T7WEdtD:wS9aDaUn">
+
+Fun with Java
+
+</link>
+
+: Programming in Java doesn't have to be dull and boring. In fact, it's possible to have a lot of fun while programming in Java. This Book contains tutorials that concentrate on having fun while programming in Java.
+	
+
+</item>
+
+
+	
+
+<item id="li1011">
+<link id="a1012" url="http://cnx.org/contents/Ki_nRUo6:SGyUbirS">
+
+GAME 2302 - Mathematical Applications for Game Development
+
+</link>
+
+: 
+	Course Description: Presents applications of mathematics and science in game 
+	and simulation programming. Includes the utilization of matrix and vector 
+	operations, kinematics, and Newtonian principles in games and simulations.
+	
+
+</item>
+
+
+	
+
+<item id="li1012">
+<link id="a1013" url="http://cnx.org/contents/lrNEBZVi:anirhKPl">
+
+ITSE 1359 Introduction to Scripting Languages: Python
+
+</link>
+
+: This 
+	is book designed for teaching ITSE 1359 Introduction to Scripting Languages: Python at Austin Community College in Austin, TX.
+	
+
+</item>
+
+
+	
+
+<item id="li1013">
+<link id="a1014" url="http://cnx.org/contents/dzOvxPFw">
+
+ITSE 2321 - Object-Oriented Programming (Java)
+
+</link>
+
+: This book provides material for the course 
+	having the same name, which Prof. Baldwin teaches at Austin Community College in Austin, TX.
+
+</item>
+
+
+	
+
+<item id="li1014">
+<link id="a1015" url="http://cnx.org/contents/Rl23r3Lw">
+
+ITSE 2317 - Java Programming 
+	(Intermediate)
+
+</link>
+
+: This book provides material for the course having the 
+	same name, which Prof. Baldwin teaches at Austin Community College in 
+	Austin, TX.
+
+</item>
+
+
+	
+
+<item id="li1015">
+<link id="a1016" url="http://cnx.org/contents/yWyT-uhM">
+
+INEW 2338 - Advanced Java 
+	Programming
+
+</link>
+
+: This book provides material for the course having the same 
+	name, which Prof. Baldwin teaches at Austin Community College in Austin, TX.
+
+</item>
+
+
+	
+
+<item id="li1016">
+<link id="a1017" url="http://cnx.org/contents/ycm9ykKB:EXrAm_4l">
+
+Image Processing using Java
+
+</link>
+
+: Tutorials that explain image processing using Java.
+	
+
+</item>
+
+
+	
+
+<item id="li1017">
+<link id="a1018" url="http://cnx.org/contents/05TSs4zg:KPv_VO7K">
+
+Introduction to XML
+
+</link>
+
+: A series of lessons designed to teach XML Fundamentals. Some of the modules use Adobe Flex as the teaching vehicle.
+	
+
+</item>
+
+
+	
+
+<item id="li1018">
+<link id="a1019" url="http://cnx.org/contents/rrRQJ3ZS:DHabim1Z">
+
+Java Graphics
+
+</link>
+
+: This Book contains a series of tutorials showing how to create graphics using Java.
+	
+
+</item>
+
+
+	
+
+<item id="li1019">
+<link id="a1020" url="http://cnx.org/contents/1CVBGBJj">
+
+Java OOP Self-Assessment
+
+</link>
+
+: Welcome to my book titled OOP Self-Assessment. This is a self-assessment test designed to help you determine how much you know about object-oriented programming (OOP) using Java. In addition to being a self-assessment test, it is also a major learning tool. Each module consists of about ten to twenty questions with answers and explanations on two or three specific topics. In many cases, the explanations are extensive. You may find those explanations to be very educational in your journey towards understanding OOP using Java.
+
+</item>
+
+
+	
+
+<item id="li1020">
+<link id="a1021" url="http://cnx.org/contents/COh26rPj:Kib1Isp5">
+
+Java Sound
+
+</link>
+
+: A book of tutorials on using Java for sound.
+
+</item>
+
+
+	
+
+<item id="li1021">
+<link id="a1022" url="http://cnx.org/contents/JbJvdDy4:C9qrp5I8">
+
+Java Swing from A to Z
+
+</link>
+
+: A collection of tutorials containing information about Swing.
+	
+
+</item>
+
+
+	
+
+<item id="li1022">
+<link id="a1023" url="http://cnx.org/contents/7tjDQie6:HDK3pMT2">
+
+Java2D Graphics
+
+</link>
+
+: This book contains several tutorials dealing with Java2D Graphics.
+	
+
+</item>
+
+
+	
+
+<item id="li1023">
+<link id="a1024" url="http://cnx.org/contents/u_b-KzFY:7dn3cpHx">
+
+JavaBeans Components
+
+</link>
+
+: A book dealing with JavaBeans Components.
+	
+
+</item>
+
+
+	
+
+<item id="li1024">
+<link id="a1025" url="http://cnx.org/contents/zWWYKvGC">
+
+Morse Code and Computer 
+	Programs
+
+</link>
+
+: This is a book about International Morse code and computer 
+	programs.
+
+</item>
+
+
+	
+
+<item id="li1025">
+<link id="a1026" url="http://cnx.org/contents/jhFhgJHh:XOCx0Vsb">
+
+Object-Oriented Programming (OOP) with ActionScript
+
+</link>
+
+: A series of lessons dedicated to teaching object-oriented programming (OOP) with ActionScript. 
+	
+
+</item>
+
+
+	
+
+<item id="li1026">
+<link id="a1027" url="http://cnx.org/contents/-2RmHFs_:kFS-maG_">
+
+Object-Oriented Programming (OOP) with Java
+
+</link>
+
+: Teaching material for various Object-Oriented Programming (OOP) courses at Austin Community College in Austin, TX. 
+	
+
+</item>
+
+
+	
+
+<item id="li1027">
+<link id="a1028" url="http://cnx.org/contents/QqpQSOsH:9bNNqcmo">
+
+OpenStax Download Cleaner
+
+</link>
+
+: March, 2016. Learn how to clean up the files produced by downloading a book in the Offline ZIP format.
+	
+
+</item>
+
+
+	
+
+<item id="li1028">
+<link id="a1029" url="http://cnx.org/contents/sbe4y4Pz:jwJWiTyV">
+
+OpenStax Publishing with a WYSIWYG Editor
+
+</link>
+
+: If you can create a valid XHTML file using a WYSIWYG editor such as the free version of Microsoft Expression Web 4, you can easily create and publish content on OpenStax using Dick Baldwin's free XHTML-to-CNXML translator program.
+	
+
+</item>
+
+
+	
+
+<item id="li1029">
+<link id="a1030" url="http://cnx.org/contents/EHRr6hjR:pDHzTeQb">
+
+Programming Fundamentals with Java
+
+</link>
+
+: Welcome to Programming Fundamentals with Java. This book is a compilation of material that I have published over the years for the benefit of those students who desire to enroll in my beginning OOP course but who don't have the required prerequisite knowledge for that course. If you fall in that category, or if you just want to get a good introduction to computer programming, you may find this material useful.
+	
+
+</item>
+
+
+	
+
+<item id="li1030">
+<link id="a1031" url="http://cnx.org/contents/1J-75Flv:tQAVqK0b">
+
+Programming Oldies But Goodies
+
+</link>
+
+: Over the years, I have published a large number of tutorials in the areas of computer programming and DSP. As I have the time to do so, I am converting the more significant of those tutorials into cnxml code and re-publishing them at cnx.org. In the meantime, this collection, which is a work in process, gathers many of the tutorials in their original HTML format into a common location to make them readily available for Connexions users. The good news is that the tutorials will be readily available in their original HTML format. The bad news is that they cannot be downloaded from cnx.org in PDF format. However, you can download the original HTML files along with image files and other support files in the cnx offline.zip format. I hope you find them useful.
+	
+
+</item>
+
+
+	
+
+<item id="li1031">
+<link id="a1032" url="http://cnx.org/contents/seQAXz6S:mKXGJjwF">
+
+Teaching beginners to code
+
+</link>
+
+: This collection of modules is designed to help beginners along with parents, teachers, and other helpers, learn how to create the code for computer programs.
+	
+
+</item>
+
+
+	
+
+<item id="li1032">
+
+	
+
+<link id="a1033" url="http://cnx.org/contents/5sRB9gpG">
+
+The json-simple Java Library
+
+</link>
+
+: Learn what JSON is and why, as a Java programmer, you should care about JSON.
+
+</item>
+
+
+	
+
+<item id="li1033">
+<link id="a1034" url="http://cnx.org/contents/d3RvwfWX:X_bx-Trm">
+
+The Processing Programming Environment
+
+</link>
+
+: Learning resource for several OOP courses at Austin Community College.
+	
+
+</item>
+
+
+	
+
+<item id="li1034">
+<link id="a1035" url="http://cnx.org/contents/GY804-eY:2N5qHBFl">
+
+XNA Game Studio
+
+</link>
+
+: This is a collection of modules designed primarily for teaching GAME 1343 Game and Simulation Programming I at Austin Community College in Austin, TX.
+	
+
+</item>
+
+
+
+
+</list>
+
+
+
+
+
+</section>
+<section id="h11002">
+<title>
+<emphasis id="List_of_pages" effect="bold">
+
+List of pages
+
+</emphasis>
+
+
+</title>
+
+
+
+
+<para id="p1003">
+To see a list of and links to the 750+ pages that I have published on OpenStax, go to the 
+OpenStax 
+
+<link id="a1036" url="http://cnx.org/search">
+
+Advanced Search
+
+</link>
+
+ page, enter 
+
+<emphasis id="strong1000" effect="bold">
+
+Richard Baldwin
+
+</emphasis>
+ in the 
+
+<emphasis id="em1002" effect="italics">
+Author
+
+</emphasis>
+ field, select 
+
+<emphasis id="strong1001" effect="bold">
+Pages
+
+</emphasis>
+ 
+in the 
+
+<emphasis id="em1003" effect="italics">
+Type
+
+</emphasis>
+ field, and click the 
+
+<emphasis id="em1004" effect="italics">
+Submit
+
+</emphasis>
+ button near the bottom 
+of the page.
+
+</para>
+
+
+
+
+
+</section>
+<section id="h11003">
+<title>
+<emphasis id="Searching_for_content" effect="bold">
+
+Searching for content
+
+</emphasis>
+
+
+</title>
+
+
+
+
+<para id="p1004">
+For a detailed content search of my books and pages, go to
+
+
+<link id="a1037" url="https://www.google.com/advanced_search">
+
+Google Advanced Search
+
+</link>
+
+, 
+enter 
+
+<emphasis id="strong1002" effect="bold">
+http://cnx.org/contents/
+
+</emphasis>
+ in the 
+
+<emphasis id="em1005" effect="italics">
+"site or domain" 
+
+</emphasis>
+field, enter your other 
+search terms in the other fields, and click the 
+
+<emphasis id="strong1003" effect="bold">
+Advanced Search
+
+</emphasis>
+  
+button near the bottom. 
+
+</para>
+
+
+
+
+
+<para id="p1005">
+For example, as of March 2016, taking this approach and entering the 
+following terms in the field labeled 
+
+<emphasis id="strong1004" effect="bold">
+all these words
+
+</emphasis>
+ turns up one unique page that I have published on OpenStax containing 
+the term 
+
+<emphasis id="strong1005" effect="bold">
+oer
+
+</emphasis>
+. 
+
+<emphasis id="em1006" effect="italics">
+(The search also turns up some archive copies 
+of that same page.)
+
+</emphasis>
+</para>
+
+
+
+
+
+<code id="pre1000" display="block">richard baldwin oer</code>
+
+
+
+
+
+<para id="p1006">
+Similarly, taking that same approach and searching for the following terms will 
+turn up a large number of pages that I have published on OpenStax containing the 
+term 
+
+<emphasis id="strong1006" effect="bold">
+java
+
+</emphasis>
+.
+
+</para>
+
+
+
+
+
+<code id="pre1001" display="block">richard baldwin java</code>
+
+
+
+
+<para id="p1007">
+This is a more exhaustive way to search for content than using the OpenStax 
+
+<link id="a1038" url="http://cnx.org/search">
+
+Advanced Search
+
+</link>
+
+ 
+page to search for content. The OpenStax 
+
+<link id="a1039" url="http://cnx.org/search">
+
+Advanced Search
+
+</link>
+
+ 
+only searches for declared keywords in the various books and pages.
+
+</para>
+
+
+
+
+
+</section>
+<section id="h11004">
+<title>
+<emphasis id="Miscellaneous" effect="bold">
+
+Miscellaneous
+
+</emphasis>
+
+
+</title>
+
+
+	
+
+<para id="p1008">
+This section contains a variety of miscellaneous information.
+
+</para>
+
+
+
+
+
+	
+
+<note id="note1000" type="">
+
+
+		
+
+
+			
+
+
+				
+
+<emphasis id="strong1007" effect="bold">
+Housekeeping material
+
+</emphasis>
+
+				
+
+<list id="ul1002" list-type="bulleted">
+
+					
+
+<item id="li1035">
+Module name: Rgb0100 Baldwin's OpenStax Index
+
+</item>
+
+
+					
+
+<item id="li1036">
+File: Rgb0100.htm
+
+</item>
+
+
+					
+
+<item id="li1037">
+Published: 03/30/16
+
+</item>
+
+
+
+				
+
+</list>
+
+
+
+
+<para id="p1009">
+<emphasis id="strong1008" effect="bold">
+Short summary:
+
+</emphasis>
+ 
+
+</para>
+
+
+
+				
+
+</note>
+
+
+
+
+
+	
+
+<note id="note1001" type="">
+
+
+		
+
+
+			
+
+
+				
+
+<emphasis id="strong1009" effect="bold">
+Disclaimers:
+
+</emphasis>
+<para id="p1010">
+<emphasis id="strong1010" effect="bold">
+Financial
+
+</emphasis>
+: Although the Connexions
+site makes it possible for you to download a PDF file for this
+module at no charge, and also makes it possible for you to
+purchase a pre-printed version of the PDF file, you should be
+aware that some of the HTML elements in this module may not translate well into
+PDF.
+
+</para>
+
+
+
+				
+
+<para id="p1011">
+I also want you to know that, I receive no financial compensation from the Connexions website even if you purchase 
+	the PDF version of the module.
+
+</para>
+
+
+
+				
+
+<para id="p1012">
+In the past, unknown individuals have copied my modules from cnx.org, converted them to Kindle books, and 
+				placed them for sale on Amazon.com showing me as the author. I 
+				neither receive compensation for those sales nor do I know who does 
+				receive compensation. If you purchase such a book, please be 
+				aware that it is a copy of a module that is freely 
+				available on cnx.org and that it was made and published without 
+				my prior knowledge.
+
+</para>
+
+
+
+				
+
+<para id="p1013">
+<emphasis id="strong1011" effect="bold">
+Affiliation
+
+</emphasis>
+: I am a professor of Computer Information 
+	Technology at Austin Community College in Austin, TX.
+	
+
+</para>
+
+
+
+
+</note>
+
+
+
+	
+
+
+
+<para id="p1014">
+-end- 
+
+</para>
+
+
+
+
+
+
+
+</section>
+</content>
+
+
+
+
+</document>
